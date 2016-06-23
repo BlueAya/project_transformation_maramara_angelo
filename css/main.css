@@ -7,7 +7,9 @@ body {
     color: #5B5B5B;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     margin: 0;
     padding: 0;
     text-transform: uppercase;
@@ -29,19 +31,15 @@ h3 {
     font-size: 1.6em;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
     margin-top: 0;
     line-height: 180%;
 }
 
-ul, ol {
-}
-
 a {
     color: #5E5E5E;
-}
-
-a:hover {
 }
 
 #wrapper {
@@ -74,9 +72,6 @@ a:hover {
     margin: 0;
     padding: 0;
     color: #FFFFFF;
-}
-
-#logo h1, #logo p {
 }
 
 #logo h1 {
@@ -201,9 +196,6 @@ a:hover {
     color: #FFFFFF;
 }
 
-#menu .current_page_item a {
-}
-
 /* Page */
 
 #page {
@@ -252,9 +244,6 @@ a:hover {
 
 .post .meta .posted {
     float: right;
-}
-
-.post .meta a {
 }
 
 .post .entry {
@@ -358,9 +347,6 @@ a:hover {
 }
 
 /* Calendar */
-
-#calendar {
-}
 
 #calendar_wrap {
     padding: 20px;
@@ -506,10 +492,6 @@ a:hover {
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
-
-#banner .content {
-}
-
 
 .list-style1 {
     margin: 0px;

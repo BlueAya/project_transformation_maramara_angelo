@@ -353,13 +353,3 @@ a {
 #banner img {
     width: 100%;
 }
-
-.list-style1 {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-.list-style1 a {
-    color: #7f7f7f;
-}

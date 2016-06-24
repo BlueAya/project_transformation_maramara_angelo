@@ -194,6 +194,12 @@ a {
     float: right;
 }
 
+.group::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 .post .entry {
     padding: 0 0 40px 0;
     text-align: justify;

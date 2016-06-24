@@ -306,6 +306,14 @@ a {
     text-decoration: underline;
 }
 
+@media all and (min-width: 865px) {
+    #sidebar section,
+    #sidebar section,
+    #sidebar section {
+        display: inline-block;
+    }
+}
+
 @media all and (min-width: 950px) {
     #content {
         float: right;
